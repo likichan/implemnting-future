@@ -190,9 +190,10 @@ ESG投資が盛んになることで、社会貢献が企業の価値評価に�
 参照：
 
 - 馬田隆明「未来を実装する ―テクノロジーで社会を変革する4つの原則」2021/01/24 英治出版
-- Vili Lehdonvirta[原著]　濱浦奈緒子[訳]「デジタルの皇帝たち ―プラットフォームが国家を超えるとき」2024/8/20　みすず書房
+- ViliLehdonvirta[原著]　濱浦奈緒子[訳]「デジタルの皇帝たち ―プラットフォームが国家を超えるとき」2024/8/20　みすず書房
 - ゆるコンピュータ科学ラジオ「巨大IT企業はなぜ邪悪になるのか？」YouTube 
-- <iframe width="560" height="315" src="https://www.youtube.com/embed/opWS8TjJwaM?si=kFIovMpAa_IpyUpA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/opWS8TjJwaM?si=kFIovMpAa_IpyUpA" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </aside>
 
 

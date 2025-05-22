@@ -9,7 +9,7 @@
 - 新しい技術を社会に普及させること
 - より詳しくは**キャズム**を超えてサービスが普及した状態
 
-<details open><summary>キャズム (chasm)</summary>
+<details><summary>キャズム (chasm)</summary>
 
 ジェフリー・ムーアが提唱した製品や技術がアーリーアダプター以降の人に広まっていかない現象や段階のこと
 ![キャズム](image.png)
